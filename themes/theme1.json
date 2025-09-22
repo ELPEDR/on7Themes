@@ -1,0 +1,12 @@
+{
+  "wallpaper": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/wallpaper.png",
+  "icons": {
+    "phone": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/icons/phone.png",
+    "settings": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/icons/settings.png",
+    "messages": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/icons/messages.png"
+  },
+  "colors": {
+    "background": "#000000",
+    "text": "#ffffff"
+  }
+}
