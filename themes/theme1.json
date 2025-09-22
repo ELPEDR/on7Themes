@@ -1,11 +1,9 @@
 {
-  "name": "Tema Teste",
+  "name": "Tema Teste 1",
   "preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/preview.png",
   "wallpaper": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/theme1wall.png",
-  "icons": {
-    "theme_manager": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/theme_manager.png",
-    "phone": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/phone.png",
-    "settings": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/settings.png",
-    "good_lock": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/folders2_personalization.png"
-  }
+  "theme_manager": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/theme_manager.png",
+  "phone": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/phone.png",
+  "settings": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/settings.png",
+  "good_lock": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/folders2_personalization.png"
 }
