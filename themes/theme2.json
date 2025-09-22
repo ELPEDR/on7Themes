@@ -1,0 +1,16 @@
+
+{
+  "c2dictionary": true,
+  "data": {
+    "name": "IOS 26",
+    "preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/preview2.png",
+    "wallpaper": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/theme2wall.png",
+    "theme_manager": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/themes.png",
+    "phone": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/phone.png",
+    "settings": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/settings.png",
+    "good_lock": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/good_lock.png",
+    "battBC": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/battetyIconBc.png",
+    "battT": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/battetyIcontl.png",
+    "openanim": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme2/openanim.png"    
+  }
+}
