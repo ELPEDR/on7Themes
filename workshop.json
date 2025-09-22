@@ -1,14 +1,10 @@
 {
   "themes": [
     {
-      "name": "One UI Dark",
-      "preview": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/preview.png",
-      "link": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/theme.json"
-    },
-    {
-      "name": "One UI Light",
-      "preview": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/light/preview.png",
-      "link": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/light/theme.json"
+      "id": "tema_teste",
+      "name": "Tema Teste",
+      "preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/preview.png",
+      "link": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themes/theme1.json"
     }
   ]
 }
