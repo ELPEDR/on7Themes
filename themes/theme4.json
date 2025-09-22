@@ -1,0 +1,15 @@
+
+
+{
+  "c2dictionary": true,
+  "data": {
+    "name": "pixel",
+    "preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme4/preview.png",
+    "wallpaper": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme4/theme4wall.png",
+    "theme_manager": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme4/samsung_themes.png",
+    "phone": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme4/true_phone.png",
+    "settings": "https://github.com/ELPEDR/on7Themes/blob/main/themres/theme4/settings_system.png?raw=true",
+    "good_lock": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme4/samsung_good_lock.png",
+    "openanim": "https://raw.githubusercontent.com/ELPEDR/on7Themes/refs/heads/main/themres/theme4/openanim2.png"    
+  }
+}
