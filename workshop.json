@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "name": "One UI Dark",
+      "preview": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/preview.png",
+      "link": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/dark/theme.json"
+    },
+    {
+      "name": "One UI Light",
+      "preview": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/light/preview.png",
+      "link": "https://raw.githubusercontent.com/seuuser/seurepo/main/themes/light/theme.json"
+    }
+  ]
+}
