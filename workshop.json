@@ -1,10 +1,16 @@
 {
   "themes": [
     {
-      "id": "tema_teste",
-      "name": "Tema Teste",
+      "id": "tema1",
+      "name": "Tema Teste 1",
       "preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme1/preview.png",
       "link": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themes/theme1.json"
+    },
+    {
+      "id": "tema2",
+      "name": "Tema Teste 2",
+      "preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme2/preview.png",
+      "link": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themes/theme2.json"
     }
   ]
 }
